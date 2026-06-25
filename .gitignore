@@ -214,5 +214,10 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Streamlit
+# Project Specific Data
+frames_dir/
+raw_download.mp4
+standard_input.mp4
+yolov8s.pt
+runs/# Streamlit
 .streamlit/secrets.toml
